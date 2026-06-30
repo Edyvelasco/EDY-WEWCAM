@@ -1,0 +1,6 @@
+{
+  "name": "EDY WEBCAM",
+  "description": "Usa tu móvil como una cámara web de alta calidad vía Wi-Fi y USB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
